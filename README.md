@@ -28,7 +28,7 @@ GSTIN that doesn't match PAN, bad email/phone/IFSC formats, inconsistent country
 vendor IDs on invoices, and duplicate invoice submissions.
 
 ## Approach
-1. **Profile & validate** — 8 field rules + 4 reconciliation rules (see [`docs/dq_rules.md`](docs/dq_rules.md)).
+1. **Profile & validate** — 8 field rules + 4 reconciliation rules .
 2. **Standardise** — case, spacing, phone format (`+91 XXXXXXXXXX`), country (`India`), payment terms (`Net 30`). Missing values are **never invented**.
 3. **De-duplicate** — records merge when the *normalised name* matches (case, punctuation, Pvt/Private/Ltd/Limited/LLP ignored) **or** the *valid PAN* matches.
 4. **Survivorship** — the most complete record survives; blank/invalid fields are filled from the best valid value in the duplicate group.
