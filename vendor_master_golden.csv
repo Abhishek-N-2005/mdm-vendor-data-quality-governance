@@ -1,0 +1,208 @@
+Vendor_ID,Vendor_Name,PAN,GSTIN,Email,Phone,Bank_Account,IFSC,Country,Payment_Terms,Status,Created_Date,Source_Records
+V1001,Zenith Logistics Pvt Ltd,YXWCG4657Q,,accounts@zenithlogistics.in,+91 7150983930,03105183473,KKBK0299737,India,Net 60,Active,2020-02-02,1
+V1002,Evergreen Electricals Private Limited,VNLCN6701B,07VNLCN6701B1ZV,accounts@evergreenelectricals.in,+91 7338726247,178108013267,UTIB0360260,India,Net 60,Active,2024-02-07,1
+V1003,Apex Pest Control Private Limited,JNWCX8723J,29JNWCX8723J1ZD,accounts@apexpestcontrol.in,+91 8009788208,21913619399,HDFC0916998,India,Net 45,Active,2021-04-16,1
+V1004,Deccan Electricals Private Limited,,33VWKCH4624O1ZE,accounts@deccanelectricals.in,+91 9991183842,1354278498084,HDFC0241182,India,Net 45,Active,2021-05-12,1
+V1005,Kaveri Facility Services LLP,WKGCV4874B,27WKGCV4874B1Z1,accounts@kaverifacilityservices.in,+91 6052427868,11280598262,HDFC1450533,India,Net 15,Active,2025-04-12,1
+V1006,Ironbridge Landscaping Limited,NTXCE3226A,29NTXCE3226A1ZV,accounts@ironbridgelandscaping.in,+91 7421607337,4330365414586,KKBK0501429,India,Net 45,Inactive,2023-11-15,2
+V1007,Ironbridge Security Solutions LLP,LXZCK6981M,24LXZCK6981M1ZM,accounts@ironbridgesecuritysolutions.in,+91 6608835615,1484656482366,,India,Net 45,Active,2023-10-27,1
+V1008,Falcon Electricals Limited,ZSTCU5777V,29ZSTCU5777V1Z6,accounts@falconelectricals.in,+91 7148951343,200379176936,UTIB0632016,India,Net 30,Active,2024-10-22,1
+V1009,Chola Landscaping LLP,OBRCH1727V,24OBRCH1727V1Z9,accounts@cholalandscaping.in,+91 9986872774,487347143455,KKBK0122362,India,Net 30,Inactive,2023-07-28,1
+V1010,Delta Maintenance Limited,KROCN0366Y,24KROCN0366Y1ZB,accounts@deltamaintenance.in,+91 9054668893,34670656272980,UTIB0990162,India,Net 60,Active,2021-12-01,1
+V1011,Aaryan Maintenance LLP,MKGCO5564Y,19MKGCO5564Y1Z0,accounts@aaryanmaintenance.in,+91 6708053100,309232719374,SBIN0299124,India,Net 15,Active,2022-07-01,1
+V1012,Ganga Maintenance Private Limited,SVMCM3193D,36SVMCM3193D1ZT,accounts@gangamaintenance.in,+91 6586518506,16572628498776,KKBK0453147,India,Net 30,Active,2023-04-02,1
+V1013,Titan Landscaping LLP,KAPCK2735Z,33KAPCK2735Z1ZV,,,777014363495,UTIB0885685,India,Net 45,Active,2022-01-14,1
+V1014,Delta Security Solutions Pvt Ltd,JIHCD3518Y,36JIHCD3518Y1ZL,,+91 7749894134,524082400842,UTIB0109477,India,Net 60,Active,2019-07-30,1
+V1015,Vertex Power Systems Pvt Ltd,IPDCC6719U,36IPDCC6719U1ZD,accounts@vertexpowersystems.in,+91 7941318699,867749649909,HDFC0334123,India,Net 30,Active,2020-10-03,1
+V1016,Pinnacle Printing Limited,ANOCW9740H,33ANOCW9740H,accounts@pinnacleprinting.in,+91 6349361832,2102499471746,,India,Net 15,Active,2022-08-13,1
+V1017,Bluewave Security Solutions Private Limited,TIACC3990Y,,accounts@bluewavesecuritysolutions.in,+91 7787429671,56551256746807,HDFC0545168,India,Net 15,Active,2025-01-31,1
+V1018,Bluewave Electricals Pvt Ltd,ONBCG8597U,07WJOBT8597U1ZD,,+91 8824771093,480861317127,SBIN0846773,India,Net 60,Active,2023-04-21,1
+V1019,Delta Logistics LLP,,,,+91 6449972787,5886753396360,SBIN0766270,India,Net 30,Active,2022-09-21,1
+V1020,Horizon Landscaping Limited,DODCQ7026U,29DODCQ7026U1ZE,accounts@horizonlandscaping.in,+91 8596158657,91343161172,SBIN0005045,India,Net 45,Active,2021-09-27,1
+V1021,Ironbridge Water Solutions Pvt Ltd,QNSCV2221T,19QNSCV2221T1ZY,accounts@ironbridgewatersolutions.in,+91 9923747407,8217594647436,UTIB0136959,India,Net 45,Active,2022-04-24,1
+V1022,Sunrise Printing Pvt Ltd,AVMCI0909X,07AVMCI0909X1ZS,accounts@sunriseprinting,+91 8339421047,95214562328,SBIN0884247,India,Net 45,Active,2022-10-19,1
+V1023,Western Facility Services Private Limited,ZDOCC2368L,27ZDOCC2368L1ZZ,accounts@westernfacilityservices.in,+91 8817549651,709859317461,ICIC0004711,India,Net 30,Active,2020-07-09,1
+V1024,Apex Landscaping Limited,MOLCV8692N,36MOLCV8692N1ZG,accounts@apexlandscaping.in,+91 9405377351,8506431713900,SBIN0329318,India,Net 30,Active,2021-08-12,1
+V1025,Unity Water Solutions Pvt Ltd,KYECZ9042E,24KYECZ9042E1ZQ,accounts@unitywatersolutions.in,+91 6020539502,0268117758917,KKBK0390847,India,Net 15,Inactive,2024-05-15,1
+V1027,Chola Security Solutions LLP,,27CCCCC6152R1Z9,accounts@cholasecuritysolutions.in,+91 6656049451,273158514936,,India,Net 15,Active,2022-06-19,1
+V1028,Zenith Maintenance Private Limited,KLACF2961E,36KLACF2961E1ZB,accounts@zenithmaintenance.in,+91 7667525459,02290147679,,India,Net 60,Active,2024-06-16,1
+V1030,Ganga Electricals Private Limited,ZTOCW5161H,07ZTOCW5161H1ZZ,accounts@gangaelectricals.in,+91 9453521818,552312432921,ICIC0779979,India,Net 45,Active,2022-07-18,1
+V1031,Pinnacle Engineering Works Private Limited,,33EOCCP7449B1Z6,accounts@pinnacleengineeringworks.in,+91 8770054119,79807935978207,HDFC1518203,India,Net 60,Active,2024-11-16,1
+V1032,Ironbridge Facility Services LLP,QTFCL5466Y,33QTFCL5466Y1ZD,accounts@ironbridgefacilityservices.in,+91 6518644925,92546291486,SBIN0281685,India,Net 15,Active,2021-01-08,1
+V1033,Quantum Logistics Private Limited,GKYCP3322C,33GKYCP3322C1ZG,accounts@quantumlogistics.in,+91 8929622292,06537947383473,SBIN0977468,India,Net 60,Active,2021-03-28,1
+V1034,Vertex Water Solutions Private Limited,ZTECI0758D,36ZTECI0758D1Z7,accounts@vertexwatersolutions.in,+91 8124782613,50606853615305,,India,Net 30,Active,2024-04-05,1
+V1035,Kaveri Security Solutions Limited,OTACC0432R,36OTACC0432R1Z7,accounts@kaverisecuritysolutions.in,+91 6434103697,17980893246,HDFC0953962,India,Net 15,Active,2023-01-17,1
+V1036,Apex Housekeeping LLP,CQRCQ8806P,27CQRCQ8806P1ZY,accounts@apexhousekeeping.in,+91 8051531952,58527722170,,India,Net 60,Active,2025-02-02,2
+V1037,Falcon Stationers Private Limited,PIBCY3450U,33PIBCY3450U1ZR,accounts@falconstationers.in,+91 8667652775,1616928451154,SBIN0796275,India,Net 60,Inactive,2022-12-15,1
+V1038,Bharat Water Solutions Private Limited,TNICU0165Q,19TNICU0165Q1ZK,accounts@bharatwatersolutions.in,+91 7970213556,92755719285,UTIB0543102,India,Net 60,Active,2025-04-19,1
+V1039,Eastern Pest Control Private Limited,DIYCI7394W,07DIYCI7394W1ZM,accounts@easternpestcontrol.in,717271551,4225831323705,KKBK0957829,India,Net 15,Inactive,2023-06-19,1
+V1040,Metro Printing Limited,WXPCQ6691E,33WXPCQ6691E1ZE,accounts@metroprinting.in,+91 9852892268,18242253584,HDFC0438424,India,Net 15,Active,2020-11-21,1
+V1041,Deccan Water Solutions Private Limited,SSECF9959B,19SSECF9959B1ZB,accounts@deccanwatersolutions.in,+91 6943969078,4736471027677,ICIC1592555,India,Net 60,Active,2023-02-26,1
+V1042,Falcon IT Services Private Limited,QRDCK3714O,29QRDCK3714O1ZJ,accounts@falconitservices.in,+91 6469632595,278774701687,ICIC0395004,India,Net 60,Active,2024-04-11,1
+V1043,Horizon Pest Control Private Limited,JRACD6245Y,07JRACD6245Y1ZX,accounts@horizonpestcontrol.in,+91 9098358416,84991216558523,KKBK0868000,India,Net 30,Active,2024-04-24,1
+V1044,Metro Engineering Works LLP,QOECT8259K,29QOECT8259K1ZZ,accounts@metroengineeringworks.in,+91 8888794705,1694097499309,UTIB0289623,India,Net 15,Active,2020-03-26,1
+V1045,Ganga Engineering Works Private Limited,,,accounts@gangaengineeringworks.in,+91 7838578652,85854973348434,SBIN0375758,India,Net 45,Active,2025-02-02,1
+V1047,Nova Pest Control Private Limited,YCUCS3802N,19YCUCS3802N1ZL,accounts@novapestcontrol.in,+91 9724004991,4788728743152,UTIB0420549,India,Net 30,Active,2023-07-19,1
+V1048,Delta Water Solutions Private Limited,NQKCC6122P,33NQKCC6122P,accountsdeltawatersolutions.in,+91 8637454990,5301742684145,KKBK0332727,India,Net 45,Active,2025-02-27,1
+V1049,Nova Electricals LLP,,07PYRCZ3391Q1Z7,accounts@novaelectricals.in,+91 6910883982,587139718707,,India,Net 60,Active,2022-06-16,1
+V1050,Metro Power Systems Private Limited,XAMCI0391B,07XAMCI0391B1ZW,accounts@metropowersystems.in,+91 6170462265,76618251286823,HDFC0047868,India,Net 60,Active,2021-10-10,1
+V1052,Jupiter IT Services Limited,UVNCR7056Z,,accounts@jupiteritservices.in,+91 9246287334,708668826343,SBIN0175183,India,Net 15,Active,2019-06-11,1
+V1053,Bluewave Power Systems LLP,CGZCY9837G,19CGZCY9837G1ZV,accounts@bluewavepowersystems.in,+91 6331739363,4678544587717,SBIN0355609,India,Net 30,Active,2019-03-08,1
+V1054,Quantum Stationers Pvt Ltd,IRSCS6423K,29IRSCS6423K1ZY,accounts@quantumstationers.in,+91 9854777252,872808010062,ICIC0120387,India,Net 45,Inactive,2024-06-02,2
+V1055,Titan Power Systems LLP,VPACA8860A,24VPACA8860A1ZR,accounts@titanpowersystems.in,+91 6862118233,5461567933410,HDFC1666870,India,Net 15,Active,2019-12-05,1
+V1056,Evergreen Water Solutions Limited,PNUCZ5918,29PNUCZ5918B1ZN,accounts@evergreenwatersolutions.in,+91 8014890250,926142939685,UTIB0218501,India,Net 60,Active,2019-11-08,1
+V1057,Nova Stationers Limited,KTYCT9650U,33KTYCT9650U1Z2,accounts@novastationers.in,+91 7586629619,3114262655110,SBIN0754121,India,Net 30,Active,2025-03-31,1
+V1058,Crestline Pest Control Limited,RQNCD0158C,24RQNCD0158C1ZU,accountscrestlinepestcontrol.in,+91 6466183982,22444721264647,HDFC0543799,India,Net 30,Active,2020-07-08,1
+V1059,Unity Security Solutions LLP,JAMCK9657K,07JAMCK9657K1ZI,accounts@unitysecuritysolutions.in,+91 8937526547,564651939828,HDFC0737416,India,Net 60,Active,2022-05-25,1
+V1060,Kaveri Maintenance Limited,HIVCE6617T,07HIVCE6617T1ZZ,accounts@kaverimaintenance.in,+91 6589113529,96561014388,KKBK0993756,India,Net 60,Active,2024-08-11,1
+V1061,Western Landscaping LLP,ELACP1461D,19ELACP1461D1ZJ,accounts@westernlandscaping.in,+91 8573875717,51401051238282,SBIN0867362,India,Net 30,Active,2023-11-06,1
+V1062,Western Power Systems Pvt Ltd,MAXCT3796M,27MAXCT3796M1ZN,accounts@westernpowersystems.in,+91 8191825537,47859696915,SBIN0792499,India,Net 15,Active,2022-07-06,2
+V1064,Vertex Electricals Private Limited,JBICH8427,36JBICH8427S1Z5,accounts@vertexelectricals.in,+91 6485807836,,KKBK0596292,India,Net 30,Active,2019-09-01,1
+V1065,Horizon Facility Services LLP,SLRCI9825W,33SLRCI9825W1ZS,accounts@horizonfacilityservices.in,+91 6260422325,672946671168,SBIN0577590,India,Net 15,Active,2024-02-21,1
+V1066,Crestline Water Solutions Limited,UVWCL1863N,19UVWCL1863N1ZN,accounts@crestlinewatersolutions.in,+91 8545892975,01701277063,ICIC0424154,India,Net 15,Active,2020-11-08,1
+V1067,Bluewave IT Services Private Limited,BMUCJ3611A,29BMUCJ3611A1Z4,accounts@bluewaveitservices.in,+91 7938700516,713611155426,ICIC0218909,India,Net 30,Active,2021-05-22,1
+V1068,Aaryan Security Solutions Limited,UXECN9731D,29UXECN9731D1ZH,accounts@aaryansecuritysolutions.in,+91 8652341389,0438983640376,HDFC0379180,India,Net 45,Active,2020-06-24,2
+V1069,Ironbridge Engineering Works Private Limited,MSNCL8271A,24MSNCL8271A1ZE,accounts@ironbridgeengineeringworks.in,+91 8300684866,18892414183285,UTIB0914630,India,Net 30,Inactive,2023-11-15,1
+V1070,Kaveri Power Systems Private Limited,DOTCT0421A,36DOTCT0421A1ZI,accounts@kaveripowersystems.in,+91 7758842524,05648149177,KKBK0507925,India,Net 30,Active,2020-02-26,1
+V1071,Bharat Pest Control Limited,SVXCD3800A,29SVXCD3800A1ZC,accounts@bharatpestcontrol.in,+91 8622086353,54195180238061,UTIB0445187,India,Net 15,Active,2022-04-09,1
+V1072,Eastern Water Solutions Pvt Ltd,SZJCX9375S,07SZJCX9375S1ZM,accounts@easternwatersolutions.in,+91 7060385050,41383670241038,UTIB0571918,India,Net 30,Active,2023-06-04,1
+V1073,Delta IT Services Limited,CSSCB6234I,19CSSCB6234I1ZU,accounts@deltaitservices.in,+91 8574313291,127756185374,UTIB0411249,India,Net 15,Active,2022-09-04,1
+V1074,Chola IT Services Pvt Ltd,ECWCH5680V,33ECWCH5680V1ZQ,accounts@cholaitservices.in,+91 6678831712,,HDFC0013721,India,Net 45,Active,2024-03-03,1
+V1075,Ganga Security Solutions LLP,BFSCN6706V,07BFSCN6706V1ZL,accounts@gangasecuritysolutions.in,+91 7244720999,476870146263,KKBK0380657,India,Net 60,Active,2024-08-19,1
+V1076,Quantum Power Systems Private Limited,KMICF0593A,19KMICF0593A1ZR,,+91 9859321334,39652239559,HDFC0599293,India,Net 60,Active,2020-12-20,1
+V1077,Zenith Housekeeping LLP,PBCCB3930Q,07PBCCB3930Q1ZA,accounts@zenithhousekeeping.in,+91 7252500292,85156915452,ICIC0675289,India,Net 45,Active,2020-12-19,1
+V1078,Nova Engineering Works Private Limited,MJXCW4220W,24MJXCW4220W,accounts@novaengineeringworks.in,+91 7959391725,35521570433,HDFC0541006,India,Net 60,Active,2020-11-12,1
+V1079,Falcon Landscaping Pvt Ltd,NPMCL8617Z,19NPMCL8617Z1ZO,accounts@falconlandscaping.in,+91 9104054115,621815997062,KKBK0620153,India,Net 30,Active,2025-03-19,2
+V1080,Nova Water Solutions Limited,XXRCI4431B,07XXRCI4431B1Z9,accounts@novawatersolutions.in,+91 7050614973,03241714677,SBIN0186256,India,Net 45,Active,2019-07-02,1
+V1081,Metro Landscaping Private Limited,IOOCI3490,19IOOCI3490E1ZG,accounts@metrolandscaping.in,+91 8869380686,93741608989921,,India,Net 60,Inactive,2023-11-19,1
+V1082,Horizon IT Services LLP,GUECT4511M,24GUECT4511M1ZZ,accounts@horizonitservices.in,+91 8870998616,299911914856,,India,Net 30,Active,2020-08-12,1
+V1083,Jupiter Maintenance Limited,TTVCW6065W,29TTVCW6065W1ZD,accounts@jupitermaintenance.in,+91 8505444713,475469137367,KKBK0508214,India,Net 60,Active,2024-11-17,1
+V1084,Zenith IT Services Pvt Ltd,SAFCG3030O,,,+91 8578610357,27985524140602,KKBK0333346,India,Net 15,Active,2019-02-06,1
+V1085,Crestline Power Systems LLP,PEUCF9034T,19PEUCF9034T,accounts@crestlinepowersystems.in,965743748,91085899441715,SBIN0544432,India,Net 30,Active,2023-07-14,1
+V1086,Western Housekeeping Private Limited,VKVCE0744N,07VKVCE0744N1ZY,accounts@westernhousekeeping.in,+91 7538758428,417248251353,SBIN0655494,India,Net 60,Active,2024-04-11,1
+V1087,Aaryan Water Solutions LLP,BUSCS9173Q,27BUSCS9173Q1ZY,accounts@aaryanwatersolutions.in,+91 9022356972,2175250074329,ICIC0712966,India,Net 60,Active,2024-05-09,2
+V1088,Greenfield Housekeeping Pvt Ltd,MABCR3505Y,19MABCR3505Y1Z7,accounts@greenfieldhousekeeping.in,+91 6033542168,2104478985625,UTIB0532603,India,Net 30,Active,2020-06-21,1
+V1089,Titan Water Solutions Limited,GXACS8215W,36GXACS8215W1ZC,accounts@titanwatersolutions.in,+91 8890901001,,KKBK0926189,India,Net 15,Active,2020-03-11,1
+V1090,Ganga Power Systems Pvt Ltd,PGTCG4835W,07PGTCG4835W,accounts@gangapowersystems.in,+91 6873753001,97218114374,SBIN0701204,India,Net 45,Active,2022-07-04,1
+V1091,Aaryan Logistics LLP,NXDCD0022K,33NXDCD0022K1Z2,accounts@aaryanlogistics.in,+91 6552166746,62120216979729,UTIB0590277,India,Net 15,Active,2023-12-11,1
+V1092,Quantum Pest Control LLP,BCICU5089X,24BCICU5089X1ZO,accounts@quantumpestcontrol.in,+91 6637562890,28772175354,HDFC0838663,India,Net 15,Active,2024-01-10,1
+V1093,Ganga Housekeeping Private Limited,CPOCK1701M,07CPOCK1701M,accounts@gangahousekeeping.in,+91 6994883755,37589975711,ICIC0055488,India,Net 45,Active,2019-07-07,1
+V1094,Jupiter Pest Control Limited,FPECW6149G,29FPECW6149G1ZH,accounts@jupiterpestcontrol.in,+91 7735160917,98270808697829,ICIC0216995,India,Net 60,Active,2021-10-13,1
+V1095,Unity Logistics LLP,IMKCJ7226T,36IMKCJ7226T1Z6,accounts@unitylogistics.in,+91 8833394522,1587996846081,HDFC0620034,India,Net 30,Active,2021-10-23,2
+V1096,Deccan Maintenance Private Limited,EBWCZ4380L,19EBWCZ4380L1Z2,accounts@deccanmaintenance.in,+91 7863840666,8004397359893,ICIC0472122,India,Net 15,Active,2023-10-22,2
+V1097,Lotus Pest Control Private Limited,IRICE2940K,07IRICE2940K1ZJ,accounts@lotuspestcontrol.in,+91 7590947985,58328182688,UTIB0153355,India,Net 45,Active,2024-12-12,1
+V1099,Ironbridge Logistics LLP,BCCCB2481S,19BCCCB2481S1ZO,accounts@ironbridgelogistics.in,+91 9676650618,,HDFC0476607,India,Net 30,Active,2020-07-12,1
+V1100,Eastern Stationers Private Limited,XMZCZ8424V,19XMZCZ8424V1ZX,accounts@easternstationers.in,+91 7100996881,3536822239431,ICIC0908781,India,Net 45,Active,2021-10-23,1
+V1101,Lotus Water Solutions Private Limited,DGXCS7552V,36DGXCS7552V1ZP,accounts@lotuswatersolutions.in,+91 8913577594,995562053364,SBIN0257775,India,Net 45,Active,2020-03-21,1
+V1102,Orchid IT Services Private Limited,FUTCC4283I,36FUTCC4283I1ZE,accounts@orchiditservices.in,+91 6809969308,8872563942788,HDFC0658039,India,Net 30,Active,2020-07-28,1
+V1103,Jupiter Stationers Pvt Ltd,OFFCS9275B,,,+91 6453038567,00518449892665,KKBK1184638,India,Net 60,Active,2022-11-14,1
+V1104,Crestline Logistics LLP,PZPCT0827F,29PGCQQ0827F1ZE,accounts@crestlinelogistics.in,+91 7222591365,77739260302,,India,Net 30,Inactive,2021-11-23,1
+V1105,Horizon Maintenance Limited,FQMCT9041G,07FQMCT9041G1Z4,accounts@horizonmaintenance.in,+91 7369292984,579913662103,KKBK1862912,India,Net 60,Active,2019-06-09,1
+V1106,Unity Maintenance Limited,ZRQCY1172T,24ZRQCY1172T1ZA,accounts@unitymaintenance.in,+91 9508637659,62473149864,ICIC0009818,India,Net 15,Active,2021-04-21,1
+V1107,Western Stationers LLP,WZKCN5126U,,accounts@westernstationers.in,+91 9959463688,25887449562137,ICIC0138658,India,Net 15,Active,2019-01-22,1
+V1108,Western Water Solutions Private Limited,ZCECP9611I,29ZCECP9611I1ZX,accounts@westernwatersolutions.in,+91 6669849027,03843098839205,ICIC0021465,India,Net 60,Active,2021-03-31,1
+V1109,Sunrise Housekeeping LLP,QAXCW1184X,19QAXCW1184X1Z9,accounts@sunrisehousekeeping.in,+91 8439376904,,KKBK0476973,India,Net 45,Active,2024-02-23,1
+V1110,Orchid Printing Pvt Ltd,VOSCA7141M,,accounts@orchidprinting.in,+91 8658804341,51827553942373,ICIC0343333,India,Net 45,Active,2020-03-12,1
+V1111,Quantum Maintenance LLP,DCVCV7908B,19DCVCV7908B1Z4,accounts@quantummaintenance.in,+91 8794728463,086780856271,KKBK0750036,India,Net 15,Active,2021-11-29,1
+V1112,Falcon Housekeeping Limited,FRICH4795L,29FRICH4795L1Z5,accounts@falconhousekeeping.in,+91 7655647292,143866322702,UTIB0728857,India,Net 45,Active,2019-07-15,1
+V1113,Chola Engineering Works LLP,,27MDWCF0347U1Z2,accounts@cholaengineeringworks.in,+91 8558845061,9399824558771,UTIB1947225,India,Net 60,Active,2023-07-16,1
+V1114,Ganga Printing LLP,CCFCK3554W,33CCFCK3554W1ZZ,accounts@gangaprinting.in,+91 9598762202,413261117800,UTIB0811492,India,Net 15,Active,2023-05-16,1
+V1115,Jupiter Facility Services Private Limited,JHHCX4722Q,19JHHCX4722Q1ZK,accounts@jupiterfacilityservices.in,+91 6557784872,,,India,Net 45,Inactive,2024-11-13,1
+V1116,Eastern Housekeeping Private Limited,YELCJ7807Y,07YELCJ7807Y1ZT,accounts@easternhousekeeping.in,+91 9493085368,63266341638944,KKBK0463122,India,Net 45,Active,2024-02-09,1
+V1117,Titan IT Services Private Limited,,29TOICW9735A1ZD,accounts@titanitservices.in,+91 7144270312,73564757051,ICIC0046187,India,Net 30,Active,2021-10-21,1
+V1118,Jupiter Power Systems Limited,MADCY3673X,27MADCY3673X1ZM,accounts@jupiterpowersystems.in,+91 6837645208,47435031365,HDFC0249163,India,Net 15,Active,2024-04-30,1
+V1119,Vertex Logistics Private Limited,WTECL1327C,36WTECL1327C1ZV,accounts@vertexlogistics.in,+91 6528127358,7306524077848,UTIB0392855,India,Net 60,Active,2025-03-21,1
+V1120,Pinnacle IT Services Limited,FCQCE7448L,07FCQCE7448L1ZA,accounts@pinnacleitservices.in,+91 7095935186,878294565118,HDFC0022031,India,Net 60,Active,2019-05-11,1
+V1121,Vertex Engineering Works Pvt Ltd,SUMCV7899I,27SUMCV7899I1ZX,accounts@vertexengineeringworks.in,+91 6037170586,0948014138113,KKBK0633839,India,Net 30,Active,2025-04-05,1
+V1122,Orchid Power Systems Limited,NXDCY9576D,29NXDCY9576D1ZL,accounts@orchidpowersystems.in,+91 8289755855,65939836845776,HDFC0049082,India,Net 45,Inactive,2021-06-27,1
+V1123,Deccan Engineering Works Private Limited,GKACY4888S,24GKACY4888S1ZJ,accounts@deccanengineeringworks.in,+91 6752245933,4196931572791,KKBK0409610,India,Net 45,Active,2023-11-14,1
+V1124,Zenith Security Solutions LLP,NDYCH9060J,24NDYCH9060J1ZC,accounts@zenithsecuritysolutions.in,+91 7583206799,36462251790,KKBK0641686,India,Net 30,Active,2024-05-23,1
+V1125,Falcon Facility Services Pvt Ltd,RGPCM9389X,24RGPCM9389X1ZP,accounts@falconfacilityservices.in,+91 6465911665,3559042597927,HDFC1335211,India,Net 15,Active,2020-08-27,1
+V1126,Sunrise Power Systems Pvt Ltd,,33JAKCW1477A1ZN,accounts@sunrisepowersystems.in,+91 7884879206,42043940701,UTIB0451046,India,Net 30,Active,2024-09-13,1
+V1127,Sunrise Facility Services Private Limited,WDKCP9812G,24ULUTL9812G1Z3,accounts@sunrisefacilityservices.in,+91 6384576205,5438404608432,SBIN0621689,India,Net 30,Active,2020-09-17,1
+V1128,Delta Engineering Works Pvt Ltd,NJTCK7823U,29NJTCK7823U1Z8,,+91 7482629251,25205664742,ICIC0122099,India,Net 45,Active,2021-08-03,1
+V1129,Bluewave Maintenance LLP,THHCV0517E,24THHCV0517E1Z4,accounts@bluewavemaintenance.in,+91 7677223306,46333127975,UTIB0366096,India,Net 45,Active,2025-01-05,1
+V1130,Evergreen Facility Services Pvt Ltd,QUWCZ0817O,19QUWCZ0817O1ZC,accounts@evergreenfacilityservices.in,+91 9086803476,4726490827718,HDFC0298266,India,Net 45,Active,2021-01-02,1
+V1131,Falcon Power Systems Private Limited,OSWCG7145W,36OSWCG7145W1ZK,accounts@falconpowersystems.in,+91 6175186892,86025922220644,UTIB0421230,India,Net 45,Inactive,2024-07-31,1
+V1132,Deccan Logistics Limited,PRZCA9733S,36PRZCA9733S1Z4,accounts@deccanlogistics.in,,022050209945,HDFC0016224,India,Net 30,Active,2023-01-15,1
+V1133,Deccan Housekeeping Private Limited,BCYCJ5561,07BCYCJ5561Y1Z9,accounts@deccanhousekeeping.in,+91 8721458683,901981794695,SBIN0899529,India,Net 60,Active,2024-07-31,1
+V1134,Crestline Engineering Works Private Limited,PZFCT3430D,,accounts@crestlineengineeringworks.in,+91 7966055830,441448850155,,India,Net 45,Active,2024-05-16,1
+V1136,Nova Landscaping Pvt Ltd,LOJCG8421,19LOJCG8421L1ZC,accounts@novalandscaping.in,+91 6780782357,5218230768104,HDFC0915701,India,Net 45,Inactive,2022-07-02,1
+V1137,Redwood Electricals Private Limited,UGKCG3448K,19UGKCG3448K,accounts@redwoodelectricals.in,+91 8224109881,858542493214,KKBK0587020,India,Net 60,Active,2019-07-26,1
+V1138,Titan Engineering Works LLP,DMBCC6629S,36DMBCC6629S1Z2,accounts@titanengineeringworks.in,+91 8538179217,74773329456,ICIC0557701,India,Net 60,Active,2024-05-14,1
+V1139,Jupiter Security Solutions Private Limited,OFJCY5992Q,27FDHDJ5992Q1ZZ,accounts@jupitersecuritysolutions.in,+91 8814876963,827615396695,KKBK0321971,India,Net 60,Active,2020-02-04,1
+V1140,Apex Logistics LLP,OFJCM1919Y,19OFJCM1919Y1ZY,accounts@apexlogistics.in,+91 9013290227,6997335494651,KKBK0098624,India,Net 15,Active,2025-02-26,1
+V1141,Evergreen Security Solutions LLP,BAWCR5140H,07BAWCR5140H1ZZ,accounts@evergreensecuritysolutions.in,+91 9666832723,56242201027621,ICIC0679692,India,Net 60,Active,2025-03-11,1
+V1142,Chola Electricals LLP,OMLCH2690S,07OMLCH2690S1ZP,accounts@cholaelectricals.in,+91 9895009751,12847818913718,KKBK0490580,India,Net 60,Active,2024-04-05,1
+V1143,Aaryan Electricals LLP,SXKCN5442B,36SXKCN5442B1ZT,accounts@aaryanelectricals.in,+91 6792904904,12814429444019,ICIC0927524,India,Net 30,Active,2024-11-30,1
+V1144,Deccan Security Solutions Limited,BKCCE9276Y,07BKCCE9276Y1ZP,accounts@deccansecuritysolutions.in,+91 7395041027,74783667428604,UTIB0658018,India,Net 45,Active,2023-11-04,1
+V1145,Ganga Pest Control Limited,TUICK4414U,24TUICK4414U1ZZ,accounts@gangapestcontrol.in,+91 7938525800,06181753443,HDFC0091093,India,Net 15,Active,2020-05-06,1
+V1146,Bharat Maintenance Private Limited,CTECM9212I,33LAGAL9212I1Z3,accounts@bharatmaintenance.in,+91 9465421406,50442717396271,ICIC0863917,India,Net 45,Active,2019-10-26,1
+V1147,Pinnacle Pest Control Private Limited,CSXCI7072,36CSXCI7072U1ZA,accounts@pinnaclepestcontrol.in,+91 9425690877,61830671985546,HDFC0158517,India,Net 45,Active,2020-12-24,1
+V1148,Falcon Maintenance Limited,RBMCV3461U,36RBMCV3461U1ZW,accounts@falconmaintenance.in,+91 6732030937,18478700505061,ICIC0878293,India,Net 15,Inactive,2020-08-02,1
+V1149,Aaryan Power Systems LLP,PUACP9032A,29PUACP9032A1ZD,,+91 6792911179,136565198253,HDFC0925114,India,Net 30,Active,2020-11-19,1
+V1150,Apex Electricals Pvt Ltd,WLRCF7390E,27WLRCF7390E1ZY,accounts@apexelectricals.in,+91 6710021946,23248763290927,KKBK0145608,India,Net 30,Active,2024-12-11,1
+V1151,Eastern Landscaping LLP,DTLCY8837Y,36DTLCY8837Y1ZN,accounts@easternlandscaping.in,,4364597010822,HDFC0781137,India,Net 45,Active,2022-08-27,1
+V1152,Sunrise Engineering Works Private Limited,HYDCK3136G,07HYDCK3136G1ZO,accounts@sunriseengineeringworks.in,+91 9970623972,52735435209042,HDFC0776253,India,Net 45,Active,2020-11-27,1
+V1153,Greenfield Water Solutions LLP,SRHCC6873S,07SRHCC6873S1Z3,accounts@greenfieldwatersolutions.in,+91 6633569392,60078068671,UTIB0731806,India,Net 30,Active,2022-04-26,1
+V1154,Sunrise Water Solutions Limited,HUCCA7427S,,accounts@sunrisewatersolutions.in,+91 9262570165,46498931950,KKBK0501657,India,Net 15,Active,2020-12-18,1
+V1155,Delta Pest Control Limited,URWCC8325H,24URWCC8325H1ZH,accounts@deltapestcontrol.in,735548640,5778817884795,HDFC0371162,India,Net 45,Active,2019-11-12,1
+V1156,Kaveri Pest Control LLP,DFICD2723Q,36DFICD2723Q1ZB,,+91 9827567043,03856955798,KKBK0774924,India,Net 30,Active,2021-07-17,1
+V1157,Titan Facility Services LLP,PLJCY0254O,29PLJCY0254O1ZK,accounts@titanfacilityservices.in,+91 7222310592,,SBIN0106727,India,Net 45,Active,2025-02-15,1
+V1158,Eastern Security Solutions LLP,QKUCW4749V,29QKUCW4749V1Z2,accounts@easternsecuritysolutions.in,+91 6702814069,751509398343,HDFC0187186,India,Net 30,Active,2024-09-26,1
+V1159,Unity IT Services LLP,BVLCM2656L,27BVLCM2656L1ZS,accounts@unityitservices.in,+91 8478137674,662991234785,HDFC0961064,India,Net 60,Active,2024-03-07,1
+V1160,Nova IT Services LLP,,07WSYCE3264R1ZC,accounts@novaitservices.in,878730024,14627301471959,UTIB0964715,India,Net 15,Active,2020-10-29,1
+V1161,Falcon Pest Control Limited,SBECK7252B,33SBECK7252B1ZX,accounts@falconpestcontrol.in,+91 8044818321,855445189520,ICIC0845765,India,Net 30,Active,2020-09-25,1
+V1162,Apex Facility Services Limited,QHGCZ8988,24QHGCZ8988W1ZH,accounts@apexfacilityservices.in,+91 9112075452,,ICIC0161107,India,Net 60,Inactive,2020-03-17,1
+V1163,Lotus Stationers LLP,BZVCQ9071I,,accounts@lotusstationers.in,+91 6119393250,24955289389,HDFC0190833,India,Net 45,Active,2025-01-09,1
+V1164,Redwood Pest Control Pvt Ltd,AXDCG8759F,07AXDCG8759F1ZG,accountsredwoodpestcontrol.in,+91 8663836151,18275480157164,UTIB0947386,India,Net 45,Active,2023-10-19,1
+V1165,Apex IT Services Limited,GCZCP5207V,27GCZCP5207V1ZZ,accounts@apexitservices.in,+91 6126691215,539613674994,UTIB0579678,India,Net 45,Active,2024-02-06,1
+V1166,Zenith Facility Services Private Limited,DDICP7320D,36DDICP7320D1ZD,accounts@zenithfacilityservices.in,+91 9026952499,18773477848,SBIN0880061,India,Net 60,Active,2023-03-22,1
+V1167,Quantum Landscaping LLP,OOBCB2842P,07OOBCB2842P1ZI,accounts@quantumlandscaping.in,+91 9719788977,806479695450,HDFC0902559,India,Net 15,Active,2022-10-29,1
+V1168,Greenfield Power Systems Pvt Ltd,MDNCL5650V,29MDNCL5650V1ZP,accounts@greenfieldpowersystems.in,+91 8911415208,0769864079056,KKBK0659171,India,Net 30,Active,2024-08-21,2
+V1169,Quantum Facility Services Private Limited,ZYVCK2945N,,accounts@quantumfacilityservices.in,+91 7440496391,95419876351,SBIN0846853,India,Net 60,Active,2024-10-11,1
+V1171,Orchid Maintenance LLP,OPRCN6032I,29OPRCN6032I1ZB,accounts@orchidmaintenance.in,+91 8820700159,1651623198189,KKBK0471391,India,Net 45,Active,2023-05-17,1
+V1172,Sunrise IT Services Limited,ZXXCH6321F,29ZXXCH6321F1ZR,accounts@sunriseitservices.in,+91 9490785158,73425754090034,,India,Net 60,Active,2023-05-29,1
+V1173,Evergreen Logistics Limited,IJCCY3432O,36CIMCJ3432O1ZU,accounts@evergreenlogistics.in,+91 6417765612,8156985700272,HDFC0634591,India,Net 15,Active,2024-10-16,1
+V1174,Bluewave Facility Services LLP,WYUCY2965O,07WYUCY2965O1ZI,accounts@bluewavefacilityservices.in,+91 7954316526,93008931734206,KKBK0694215,India,Net 30,Active,2020-04-25,2
+V1175,Redwood IT Services LLP,AWQCN7713W,29AWQCN7713W1ZM,accounts@redwooditservices.in,+91 8762639343,26204439735971,HDFC0725636,India,Net 60,Active,2021-11-15,1
+V1176,Redwood Landscaping Private Limited,CDRCB0537L,24CDRCB0537L1ZC,accounts@redwoodlandscaping.in,+91 8896465280,428757215862,SBIN0150274,India,Net 45,Active,2022-03-04,1
+V1177,Kaveri Logistics Pvt Ltd,ITYCI8562K,36ITYCI8562K1Z5,accounts@kaverilogistics.in,+91 9032032074,761707587771,ICIC0151342,India,Net 30,Active,2022-01-22,1
+V1178,Redwood Engineering Works Pvt Ltd,SVSCG9089F,07SVSCG9089F1ZE,accounts@redwoodengineeringworks.in,+91 9150416591,2017774905097,SBIN0923045,India,Net 15,Active,2025-02-19,1
+V1179,Bluewave Printing Pvt Ltd,TMCCM4236C,27TMCCM4236C1ZN,accounts@bluewaveprinting.in,+91 9642147649,515837767499,UTIB0165926,India,Net 60,Inactive,2024-10-03,1
+V1180,Bluewave Water Solutions Limited,KOVCH2788C,33KOVCH2788C1Z3,accounts@bluewavewatersolutions.in,+91 6742243864,81081866179,SBIN0549180,India,Net 15,Active,2024-03-10,1
+V1181,Nova Logistics Limited,FZFCM0164K,24FZFCM0164K1Z3,accounts@novalogistics.in,+91 8523219416,06102776974,KKBK0956412,India,Net 30,Inactive,2020-04-03,1
+V1182,Ironbridge Pest Control Pvt Ltd,AWGCA3723N,19AWGCA3723N1Z8,accounts@ironbridgepestcontrol.in,+91 6472760122,77079334960501,UTIB0679984,India,Net 15,Active,2024-06-14,1
+V1183,Orchid Pest Control Private Limited,QSXCT7308A,07CZDCU7308A1ZU,,+91 8671795760,437573839597,ICIC0466572,India,Net 30,Active,2019-12-20,1
+V1184,Bluewave Housekeeping Limited,VPECF3297D,19VPECF3297D1Z0,,+91 8338005452,801561931837,SBIN0550842,India,Net 15,Active,2023-11-29,1
+V1185,Ganga Landscaping Private Limited,ZOYCD1991R,27ZOYCD1991R1Z6,accounts@gangalandscaping.in,+91 7135247871,552137603754,KKBK0214565,India,Net 30,Active,2024-12-09,1
+V1186,Titan Stationers Private Limited,NZHCE6667Q,19NZHCE6667Q1ZX,accounts@titanstationers.in,+91 9208115562,06029084668455,HDFC0489267,India,Net 30,Active,2023-12-17,1
+V1187,Orchid Facility Services Limited,,24WLZCZ6341B1ZV,,,2008943468105,SBIN0851017,India,Net 45,Active,2019-01-22,1
+V1188,Unity Printing LLP,OKHCZ9989H,33OKHCZ9989H1ZT,accounts@unityprinting.in,+91 7683158935,12661106273715,KKBK0698864,India,Net 60,Active,2023-12-08,1
+V1189,Titan Logistics Pvt Ltd,WPXCN2282P,36WPXCN2282P,accounts@titanlogistics.in,+91 6377028519,11594082154544,UTIB0022960,India,Net 45,Active,2021-06-02,1
+V1190,Metro Facility Services LLP,FXPCA1851B,07FXPCA1851B,accounts@metrofacilityservices.in,+91 9567922877,25199663658074,HDFC0209481,India,Net 15,Active,2025-01-28,1
+V1191,Ironbridge IT Services Pvt Ltd,SYBCS8378A,27ANAUY8378A1Z8,accounts@ironbridgeitservices.in,,90705626085641,HDFC0182422,India,Net 45,Active,2020-09-23,1
+V1192,Ganga IT Services LLP,JNVCF0952A,36JNVCF0952A1ZD,accounts@gangaitservices.in,+91 9152654610,399378861405,UTIB0861706,India,Net 30,Active,2019-03-18,1
+V1193,Delta Facility Services Limited,IRSCV1382J,24IRSCV1382J1Z0,accounts@deltafacilityservices.in,+91 6832582386,00794200749465,ICIC0984028,India,Net 15,Active,2023-06-08,1
+V1194,Evergreen Stationers LLP,WDECX8463T,24WDECX8463T1ZU,accounts@evergreenstationers.in,+91 8743553795,20970026876,KKBK0118071,India,Net 45,Active,2023-03-22,1
+V1195,Vertex Landscaping Pvt Ltd,TLMCF0175G,07TLMCF0175G1ZA,accounts@vertexlandscaping.in,+91 6453194337,0479303614987,,India,Net 15,Active,2019-09-24,1
+V1196,Pinnacle Landscaping LLP,EISCH8430W,36EISCH8430W1Z8,accounts@pinnaclelandscaping.in,+91 9060566418,75803046875063,SBIN0190361,India,Net 30,Active,2022-09-10,1
+V1197,Lotus Electricals LLP,JCUCU1076Z,27JCUCU1076Z1ZV,accounts@lotuselectricals.in,+91 7173505831,17911006512070,SBIN0961108,India,Net 15,Active,2023-04-12,2
+V1198,Western Engineering Works Limited,MDTCY6399A,07MDTCY6399A1ZY,accounts@westernengineeringworks.in,,,UTIB0797232,India,Net 15,Inactive,2022-06-30,1
+V1199,Sunrise Landscaping Limited,SNQCU5498Y,29SNQCU5498Y1ZJ,accounts@sunriselandscaping.in,+91 8954508920,880653331537,UTIB0959959,India,Net 45,Active,2020-10-26,2
+V1200,Zenith Engineering Works Pvt Ltd,DOZCB7303W,29DOZCB7303W1Z3,accounts@zenithengineeringworks.in,+91 7756362050,50812473950,HDFC0334234,India,Net 30,Active,2025-03-21,1
+V1201,Nova Housekeeping Limited,DHJCD2528M,07DHJCD2528M1ZI,accounts@novahousekeeping.in,+91 9559630993,579050723688,UTIB0676772,India,Net 15,Active,2021-06-22,2
+V1202,Eastern It Services Limited,MMLCY2404W,27MMLCY2404W1ZW,accounts@easternitservices.in,+91 7042897317,308330165712,HDFC0826773,India,Net 45,Active,2019-08-31,2
+V1203,Western Electricals Pvt Ltd,OLECI3106T,19OLECI3106T1ZB,accounts@westernelectricals.in,+91 9857872558,73830284395995,ICIC0428364,India,Net 45,Inactive,2020-12-18,2
+V1207,Horizon Housekeeping Pvt Ltd,MNVCD7711K,24MNVCD7711K1ZJ,accounts@horizonhousekeeping.in,+91 7499856984,89611836736576,UTIB0156545,India,Net 30,Active,2024-04-26,2
+V1211,Crestline Facility Services Pvt Ltd,PRYCU0157H,36PRYCU0157H1ZP,accounts@crestlinefacilityservices.in,+91 8616484085,70435811288013,ICIC0613861,India,Net 30,Inactive,2022-09-20,2
+V1213,Bharat It Services Pvt Ltd,QVJCB3690A,29QVJCB3690A1ZT,accounts@bharatitservices.in,+91 7415148881,83885160607159,UTIB0966416,India,Net 15,Active,2020-12-04,2
+V1217,Titan IT Svcs Private Limited,TOICW9735A,29TOICW9735A1ZD,accounts@titanitservices.in,+91 7144270312,73564757051,ICIC0046187,India,Net 30,Active,2024-02-03,1
+V1221,Pinnacle Security Soln Limited,OVYCR2082S,07OVYCR2082S1ZN,accounts@pinnaclesecuritysolutions.in,+91 8896908357,324665136442,SBIN0936312,India,Net 30,Inactive,2022-06-25,2
+V1222,Metro Engg Works LLP,,29QOECT8259K1ZZ,accounts@metroengineeringworks.in,+91 8888794705,1694097499309,UTIB0289623,India,Net 15,Active,2021-08-07,1
+V1223,Orchid Elec. Limited,PZBCU2727R,33PZBCU2727R1Z3,accounts@orchidelectricals.in,+91 6849588039,5124056829962,KKBK0145046,India,Net 15,Active,2021-08-31,2
+V1224,Nova IT ervices LLP,,,accounts@novaitservices.in,+91 8787300244,14627301471959,UTIB0964715,India,Net 15,Active,2022-03-22,1
+V1225,Falcon Houekeeping Limited,,,accounts@falconhousekeeping.in,792407553,,UTIB0728857,India,Net 45,Active,2021-04-06,1
+V1226,Bluewave Secrity Solutions Private Limited,,,accounts@bluewavesecuritysolutions.in,+91 7787429671,56551256746807,HDFC0545168,India,Net 15,Active,2026-06-10,1
+V1227,Pinnacle Engneering Works Private Limited,,,accounts@pinnacleengineeringworks.in,+91 8770054119,79807935978207,HDFC1518203,India,Net 60,Active,2026-03-04,1
+V1228,Falcon Staioners Private Limited,,,accounts@falconstationers.in,+91 8667652775,1616928451154,SBIN0796275,India,Net 60,Inactive,2025-01-20,1

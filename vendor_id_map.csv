@@ -1,0 +1,229 @@
+Raw_Vendor_ID,Golden_Vendor_ID,Match_Rule,Raw_Name,Golden_Name
+V1001,V1001,Survivor,Zenith Logistics Pvt Ltd,Zenith Logistics Pvt Ltd
+V1002,V1002,Survivor,Evergreen Electricals Private Limited,Evergreen Electricals Private Limited
+V1003,V1003,Survivor,Apex Pest Control Private Limited,Apex Pest Control Private Limited
+V1004,V1004,Survivor,Deccan Electricals Private Limited,Deccan Electricals Private Limited
+V1005,V1005,Survivor,Kaveri Facility Services LLP,Kaveri Facility Services LLP
+V1204,V1006,Normalised name match,IRONBRIDGE LANDSCAPING LIMITED,Ironbridge Landscaping Limited
+V1006,V1006,Survivor,Ironbridge Landscaping Limited,Ironbridge Landscaping Limited
+V1007,V1007,Survivor,Ironbridge Security Solutions LLP,Ironbridge Security Solutions LLP
+V1008,V1008,Survivor,Falcon Electricals Limited,Falcon Electricals Limited
+V1009,V1009,Survivor,Chola Landscaping LLP,Chola Landscaping LLP
+V1010,V1010,Survivor,Delta Maintenance Limited,Delta Maintenance Limited
+V1011,V1011,Survivor,Aaryan Maintenance LLP,Aaryan Maintenance LLP
+V1012,V1012,Survivor,Ganga Maintenance Private Limited,Ganga Maintenance Private Limited
+V1013,V1013,Survivor,Titan Landscaping LLP,Titan Landscaping LLP
+V1014,V1014,Survivor,Delta Security Solutions Pvt Ltd,Delta Security Solutions Pvt Ltd
+V1015,V1015,Survivor,Vertex Power Systems Pvt Ltd,Vertex Power Systems Pvt Ltd
+V1016,V1016,Survivor,Pinnacle Printing Limited,Pinnacle Printing Limited
+V1017,V1017,Survivor,Bluewave Security Solutions Private Limited,Bluewave Security Solutions Private Limited
+V1018,V1018,Survivor,Bluewave Electricals Pvt Ltd,Bluewave Electricals Pvt Ltd
+V1019,V1019,Survivor,Delta Logistics LLP,Delta Logistics LLP
+V1020,V1020,Survivor,Horizon Landscaping Limited,Horizon Landscaping Limited
+V1021,V1021,Survivor,Ironbridge Water Solutions Pvt Ltd,Ironbridge Water Solutions Pvt Ltd
+V1022,V1022,Survivor,Sunrise Printing Pvt Ltd,Sunrise Printing Pvt Ltd
+V1023,V1023,Survivor,Western Facility Services Private Limited,Western Facility Services Private Limited
+V1024,V1024,Survivor,Apex Landscaping Limited,Apex Landscaping Limited
+V1025,V1025,Survivor,Unity Water Solutions Pvt Ltd,Unity Water Solutions Pvt Ltd
+V1027,V1027,Survivor,Chola Security Solutions LLP,Chola Security Solutions LLP
+V1028,V1028,Survivor,Zenith Maintenance Private Limited,Zenith Maintenance Private Limited
+V1030,V1030,Survivor,Ganga Electricals Private Limited,Ganga Electricals Private Limited
+V1031,V1031,Survivor,Pinnacle Engineering Works Private Limited,Pinnacle Engineering Works Private Limited
+V1032,V1032,Survivor,Ironbridge Facility Services LLP,Ironbridge Facility Services LLP
+V1033,V1033,Survivor,Quantum Logistics Private Limited,Quantum Logistics Private Limited
+V1034,V1034,Survivor,Vertex Water Solutions Private Limited,Vertex Water Solutions Private Limited
+V1035,V1035,Survivor,Kaveri Security Solutions Limited,Kaveri Security Solutions Limited
+V1210,V1036,PAN match,APEX HOUSEKEEPING L.L.P.,Apex Housekeeping LLP
+V1036,V1036,Survivor,Apex Housekeeping LLP,Apex Housekeeping LLP
+V1037,V1037,Survivor,Falcon Stationers Private Limited,Falcon Stationers Private Limited
+V1038,V1038,Survivor,Bharat Water Solutions Private Limited,Bharat Water Solutions Private Limited
+V1039,V1039,Survivor,Eastern Pest Control Private Limited,Eastern Pest Control Private Limited
+V1040,V1040,Survivor,Metro Printing Limited,Metro Printing Limited
+V1041,V1041,Survivor,Deccan Water Solutions Private Limited,Deccan Water Solutions Private Limited
+V1042,V1042,Survivor,Falcon IT Services Private Limited,Falcon IT Services Private Limited
+V1043,V1043,Survivor,Horizon Pest Control Private Limited,Horizon Pest Control Private Limited
+V1044,V1044,Survivor,Metro Engineering Works LLP,Metro Engineering Works LLP
+V1045,V1045,Survivor,Ganga Engineering Works Private Limited,Ganga Engineering Works Private Limited
+V1047,V1047,Survivor,Nova Pest Control Private Limited,Nova Pest Control Private Limited
+V1048,V1048,Survivor,Delta Water Solutions Private Limited,Delta Water Solutions Private Limited
+V1049,V1049,Survivor,Nova Electricals LLP,Nova Electricals LLP
+V1050,V1050,Survivor,Metro Power Systems Private Limited,Metro Power Systems Private Limited
+V1052,V1052,Survivor,Jupiter IT Services Limited,Jupiter IT Services Limited
+V1053,V1053,Survivor,Bluewave Power Systems LLP,Bluewave Power Systems LLP
+V1215,V1054,Normalised name match,Quantum  Stationers PVT LTD,Quantum Stationers Pvt Ltd
+V1054,V1054,Survivor,Quantum Stationers Pvt Ltd,Quantum Stationers Pvt Ltd
+V1055,V1055,Survivor,Titan Power Systems LLP,Titan Power Systems LLP
+V1056,V1056,Survivor,Evergreen Water Solutions Limited,Evergreen Water Solutions Limited
+V1057,V1057,Survivor,Nova Stationers Limited,Nova Stationers Limited
+V1058,V1058,Survivor,Crestline Pest Control Limited,Crestline Pest Control Limited
+V1059,V1059,Survivor,Unity Security Solutions LLP,Unity Security Solutions LLP
+V1060,V1060,Survivor,Kaveri Maintenance Limited,Kaveri Maintenance Limited
+V1061,V1061,Survivor,Western Landscaping LLP,Western Landscaping LLP
+V1218,V1062,PAN match,West. Power Systems Pvt Ltd,Western Power Systems Pvt Ltd
+V1062,V1062,Survivor,Western Power Systems Pvt Ltd,Western Power Systems Pvt Ltd
+V1064,V1064,Survivor,Vertex Electricals Private Limited,Vertex Electricals Private Limited
+V1065,V1065,Survivor,Horizon Facility Services LLP,Horizon Facility Services LLP
+V1066,V1066,Survivor,Crestline Water Solutions Limited,Crestline Water Solutions Limited
+V1067,V1067,Survivor,Bluewave IT Services Private Limited,Bluewave IT Services Private Limited
+V1206,V1068,Normalised name match,Aaryan  Security Solutions Limited,Aaryan Security Solutions Limited
+V1068,V1068,Survivor,Aaryan Security Solutions Limited,Aaryan Security Solutions Limited
+V1069,V1069,Survivor,Ironbridge Engineering Works Private Limited,Ironbridge Engineering Works Private Limited
+V1070,V1070,Survivor,Kaveri Power Systems Private Limited,Kaveri Power Systems Private Limited
+V1071,V1071,Survivor,Bharat Pest Control Limited,Bharat Pest Control Limited
+V1072,V1072,Survivor,Eastern Water Solutions Pvt Ltd,Eastern Water Solutions Pvt Ltd
+V1073,V1073,Survivor,Delta IT Services Limited,Delta IT Services Limited
+V1074,V1074,Survivor,Chola IT Services Pvt Ltd,Chola IT Services Pvt Ltd
+V1075,V1075,Survivor,Ganga Security Solutions LLP,Ganga Security Solutions LLP
+V1076,V1076,Survivor,Quantum Power Systems Private Limited,Quantum Power Systems Private Limited
+V1077,V1077,Survivor,Zenith Housekeeping LLP,Zenith Housekeeping LLP
+V1078,V1078,Survivor,Nova Engineering Works Private Limited,Nova Engineering Works Private Limited
+V1216,V1079,PAN match,Falc. Landscaping Pvt Ltd,Falcon Landscaping Pvt Ltd
+V1079,V1079,Survivor,Falcon Landscaping Pvt Ltd,Falcon Landscaping Pvt Ltd
+V1080,V1080,Survivor,Nova Water Solutions Limited,Nova Water Solutions Limited
+V1081,V1081,Survivor,Metro Landscaping Private Limited,Metro Landscaping Private Limited
+V1082,V1082,Survivor,Horizon IT Services LLP,Horizon IT Services LLP
+V1083,V1083,Survivor,Jupiter Maintenance Limited,Jupiter Maintenance Limited
+V1084,V1084,Survivor,Zenith IT Services Pvt Ltd,Zenith IT Services Pvt Ltd
+V1085,V1085,Survivor,Crestline Power Systems LLP,Crestline Power Systems LLP
+V1086,V1086,Survivor,Western Housekeeping Private Limited,Western Housekeeping Private Limited
+V1214,V1087,PAN match,AARYAN WATER SOLUTIONS L.L.P.,Aaryan Water Solutions LLP
+V1087,V1087,Survivor,Aaryan Water Solutions LLP,Aaryan Water Solutions LLP
+V1088,V1088,Survivor,Greenfield Housekeeping Pvt Ltd,Greenfield Housekeeping Pvt Ltd
+V1089,V1089,Survivor,Titan Water Solutions Limited,Titan Water Solutions Limited
+V1090,V1090,Survivor,Ganga Power Systems Pvt Ltd,Ganga Power Systems Pvt Ltd
+V1091,V1091,Survivor,Aaryan Logistics LLP,Aaryan Logistics LLP
+V1092,V1092,Survivor,Quantum Pest Control LLP,Quantum Pest Control LLP
+V1093,V1093,Survivor,Ganga Housekeeping Private Limited,Ganga Housekeeping Private Limited
+V1094,V1094,Survivor,Jupiter Pest Control Limited,Jupiter Pest Control Limited
+V1219,V1095,PAN match,Unity Logis. LLP,Unity Logistics LLP
+V1095,V1095,Survivor,Unity Logistics LLP,Unity Logistics LLP
+V1220,V1096,PAN match,Deccan Maint. Private Limited,Deccan Maintenance Private Limited
+V1096,V1096,Survivor,Deccan Maintenance Private Limited,Deccan Maintenance Private Limited
+V1097,V1097,Survivor,Lotus Pest Control Private Limited,Lotus Pest Control Private Limited
+V1099,V1099,Survivor,Ironbridge Logistics LLP,Ironbridge Logistics LLP
+V1100,V1100,Survivor,Eastern Stationers Private Limited,Eastern Stationers Private Limited
+V1101,V1101,Survivor,Lotus Water Solutions Private Limited,Lotus Water Solutions Private Limited
+V1102,V1102,Survivor,Orchid IT Services Private Limited,Orchid IT Services Private Limited
+V1103,V1103,Survivor,Jupiter Stationers Pvt Ltd,Jupiter Stationers Pvt Ltd
+V1104,V1104,Survivor,Crestline Logistics LLP,Crestline Logistics LLP
+V1105,V1105,Survivor,Horizon Maintenance Limited,Horizon Maintenance Limited
+V1106,V1106,Survivor,Unity Maintenance Limited,Unity Maintenance Limited
+V1107,V1107,Survivor,Western Stationers LLP,Western Stationers LLP
+V1108,V1108,Survivor,Western Water Solutions Private Limited,Western Water Solutions Private Limited
+V1109,V1109,Survivor,Sunrise Housekeeping LLP,Sunrise Housekeeping LLP
+V1110,V1110,Survivor,Orchid Printing Pvt Ltd,Orchid Printing Pvt Ltd
+V1111,V1111,Survivor,Quantum Maintenance LLP,Quantum Maintenance LLP
+V1112,V1112,Survivor,Falcon Housekeeping Limited,Falcon Housekeeping Limited
+V1113,V1113,Survivor,Chola Engineering Works LLP,Chola Engineering Works LLP
+V1114,V1114,Survivor,Ganga Printing LLP,Ganga Printing LLP
+V1115,V1115,Survivor,Jupiter Facility Services Private Limited,Jupiter Facility Services Private Limited
+V1116,V1116,Survivor,Eastern Housekeeping Private Limited,Eastern Housekeeping Private Limited
+V1117,V1117,Survivor,Titan IT Services Private Limited,Titan IT Services Private Limited
+V1118,V1118,Survivor,Jupiter Power Systems Limited,Jupiter Power Systems Limited
+V1119,V1119,Survivor,Vertex Logistics Private Limited,Vertex Logistics Private Limited
+V1120,V1120,Survivor,Pinnacle IT Services Limited,Pinnacle IT Services Limited
+V1121,V1121,Survivor,Vertex Engineering Works Pvt Ltd,Vertex Engineering Works Pvt Ltd
+V1122,V1122,Survivor,Orchid Power Systems Limited,Orchid Power Systems Limited
+V1123,V1123,Survivor,Deccan Engineering Works Private Limited,Deccan Engineering Works Private Limited
+V1124,V1124,Survivor,Zenith Security Solutions LLP,Zenith Security Solutions LLP
+V1125,V1125,Survivor,Falcon Facility Services Pvt Ltd,Falcon Facility Services Pvt Ltd
+V1126,V1126,Survivor,Sunrise Power Systems Pvt Ltd,Sunrise Power Systems Pvt Ltd
+V1127,V1127,Survivor,Sunrise Facility Services Private Limited,Sunrise Facility Services Private Limited
+V1128,V1128,Survivor,Delta Engineering Works Pvt Ltd,Delta Engineering Works Pvt Ltd
+V1129,V1129,Survivor,Bluewave Maintenance LLP,Bluewave Maintenance LLP
+V1130,V1130,Survivor,Evergreen Facility Services Pvt Ltd,Evergreen Facility Services Pvt Ltd
+V1131,V1131,Survivor,Falcon Power Systems Private Limited,Falcon Power Systems Private Limited
+V1132,V1132,Survivor,Deccan Logistics Limited,Deccan Logistics Limited
+V1133,V1133,Survivor,Deccan Housekeeping Private Limited,Deccan Housekeeping Private Limited
+V1134,V1134,Survivor,Crestline Engineering Works Private Limited,Crestline Engineering Works Private Limited
+V1136,V1136,Survivor,Nova Landscaping Pvt Ltd,Nova Landscaping Pvt Ltd
+V1137,V1137,Survivor,Redwood Electricals Private Limited,Redwood Electricals Private Limited
+V1138,V1138,Survivor,Titan Engineering Works LLP,Titan Engineering Works LLP
+V1139,V1139,Survivor,Jupiter Security Solutions Private Limited,Jupiter Security Solutions Private Limited
+V1140,V1140,Survivor,Apex Logistics LLP,Apex Logistics LLP
+V1141,V1141,Survivor,Evergreen Security Solutions LLP,Evergreen Security Solutions LLP
+V1142,V1142,Survivor,Chola Electricals LLP,Chola Electricals LLP
+V1143,V1143,Survivor,Aaryan Electricals LLP,Aaryan Electricals LLP
+V1144,V1144,Survivor,Deccan Security Solutions Limited,Deccan Security Solutions Limited
+V1145,V1145,Survivor,Ganga Pest Control Limited,Ganga Pest Control Limited
+V1146,V1146,Survivor,Bharat Maintenance Private Limited,Bharat Maintenance Private Limited
+V1147,V1147,Survivor,Pinnacle Pest Control Private Limited,Pinnacle Pest Control Private Limited
+V1148,V1148,Survivor,Falcon Maintenance Limited,Falcon Maintenance Limited
+V1149,V1149,Survivor,Aaryan Power Systems LLP,Aaryan Power Systems LLP
+V1150,V1150,Survivor,Apex Electricals Pvt Ltd,Apex Electricals Pvt Ltd
+V1151,V1151,Survivor,Eastern Landscaping LLP,Eastern Landscaping LLP
+V1152,V1152,Survivor,Sunrise Engineering Works Private Limited,Sunrise Engineering Works Private Limited
+V1153,V1153,Survivor,Greenfield Water Solutions LLP,Greenfield Water Solutions LLP
+V1154,V1154,Survivor,Sunrise Water Solutions Limited,Sunrise Water Solutions Limited
+V1155,V1155,Survivor,Delta Pest Control Limited,Delta Pest Control Limited
+V1156,V1156,Survivor,Kaveri Pest Control LLP,Kaveri Pest Control LLP
+V1157,V1157,Survivor,Titan Facility Services LLP,Titan Facility Services LLP
+V1158,V1158,Survivor,Eastern Security Solutions LLP,Eastern Security Solutions LLP
+V1159,V1159,Survivor,Unity IT Services LLP,Unity IT Services LLP
+V1160,V1160,Survivor,Nova IT Services LLP,Nova IT Services LLP
+V1161,V1161,Survivor,Falcon Pest Control Limited,Falcon Pest Control Limited
+V1162,V1162,Survivor,Apex Facility Services Limited,Apex Facility Services Limited
+V1163,V1163,Survivor,Lotus Stationers LLP,Lotus Stationers LLP
+V1164,V1164,Survivor,Redwood Pest Control Pvt Ltd,Redwood Pest Control Pvt Ltd
+V1165,V1165,Survivor,Apex IT Services Limited,Apex IT Services Limited
+V1166,V1166,Survivor,Zenith Facility Services Private Limited,Zenith Facility Services Private Limited
+V1167,V1167,Survivor,Quantum Landscaping LLP,Quantum Landscaping LLP
+V1212,V1168,Normalised name match,GREENFIELD POWER SYSTEMS PVT LTD,Greenfield Power Systems Pvt Ltd
+V1168,V1168,Survivor,Greenfield Power Systems Pvt Ltd,Greenfield Power Systems Pvt Ltd
+V1169,V1169,Survivor,Quantum Facility Services Private Limited,Quantum Facility Services Private Limited
+V1171,V1171,Survivor,Orchid Maintenance LLP,Orchid Maintenance LLP
+V1172,V1172,Survivor,Sunrise IT Services Limited,Sunrise IT Services Limited
+V1173,V1173,Survivor,Evergreen Logistics Limited,Evergreen Logistics Limited
+V1209,V1174,PAN match,BLUEWAVE FACILITY SERVICES L.L.P.,Bluewave Facility Services LLP
+V1174,V1174,Survivor,Bluewave Facility Services LLP,Bluewave Facility Services LLP
+V1175,V1175,Survivor,Redwood IT Services LLP,Redwood IT Services LLP
+V1176,V1176,Survivor,Redwood Landscaping Private Limited,Redwood Landscaping Private Limited
+V1177,V1177,Survivor,Kaveri Logistics Pvt Ltd,Kaveri Logistics Pvt Ltd
+V1178,V1178,Survivor,Redwood Engineering Works Pvt Ltd,Redwood Engineering Works Pvt Ltd
+V1179,V1179,Survivor,Bluewave Printing Pvt Ltd,Bluewave Printing Pvt Ltd
+V1180,V1180,Survivor,Bluewave Water Solutions Limited,Bluewave Water Solutions Limited
+V1181,V1181,Survivor,Nova Logistics Limited,Nova Logistics Limited
+V1182,V1182,Survivor,Ironbridge Pest Control Pvt Ltd,Ironbridge Pest Control Pvt Ltd
+V1183,V1183,Survivor,Orchid Pest Control Private Limited,Orchid Pest Control Private Limited
+V1184,V1184,Survivor,Bluewave Housekeeping Limited,Bluewave Housekeeping Limited
+V1185,V1185,Survivor,Ganga Landscaping Private Limited,Ganga Landscaping Private Limited
+V1186,V1186,Survivor,Titan Stationers Private Limited,Titan Stationers Private Limited
+V1187,V1187,Survivor,Orchid Facility Services Limited,Orchid Facility Services Limited
+V1188,V1188,Survivor,Unity Printing LLP,Unity Printing LLP
+V1189,V1189,Survivor,Titan Logistics Pvt Ltd,Titan Logistics Pvt Ltd
+V1190,V1190,Survivor,Metro Facility Services LLP,Metro Facility Services LLP
+V1191,V1191,Survivor,Ironbridge IT Services Pvt Ltd,Ironbridge IT Services Pvt Ltd
+V1192,V1192,Survivor,Ganga IT Services LLP,Ganga IT Services LLP
+V1193,V1193,Survivor,Delta Facility Services Limited,Delta Facility Services Limited
+V1194,V1194,Survivor,Evergreen Stationers LLP,Evergreen Stationers LLP
+V1195,V1195,Survivor,Vertex Landscaping Pvt Ltd,Vertex Landscaping Pvt Ltd
+V1196,V1196,Survivor,Pinnacle Landscaping LLP,Pinnacle Landscaping LLP
+V1208,V1197,PAN match,LOTUS ELECTRICALS L.L.P.,Lotus Electricals LLP
+V1197,V1197,Survivor,Lotus Electricals LLP,Lotus Electricals LLP
+V1198,V1198,Survivor,Western Engineering Works Limited,Western Engineering Works Limited
+V1205,V1199,Normalised name match,SUNRISE LANDSCAPING LIMITED,Sunrise Landscaping Limited
+V1199,V1199,Survivor,Sunrise Landscaping Limited,Sunrise Landscaping Limited
+V1200,V1200,Survivor,Zenith Engineering Works Pvt Ltd,Zenith Engineering Works Pvt Ltd
+V1063,V1201,Normalised name match,Nova Housekeeping Limited,Nova Housekeeping Limited
+V1201,V1201,Survivor,Nova  Housekeeping Limited,Nova Housekeeping Limited
+V1046,V1202,Normalised name match,Eastern IT Services Limited,Eastern It Services Limited
+V1202,V1202,Survivor,EASTERN IT SERVICES LIMITED,Eastern It Services Limited
+V1051,V1203,Normalised name match,Western Electricals Pvt Ltd,Western Electricals Pvt Ltd
+V1203,V1203,Survivor,Western  Electricals PVT LTD,Western Electricals Pvt Ltd
+V1026,V1207,Normalised name match,Horizon Housekeeping Private Limited,Horizon Housekeeping Pvt Ltd
+V1207,V1207,Survivor,Horizon  Housekeeping Pvt. Ltd.,Horizon Housekeeping Pvt Ltd
+V1098,V1211,Normalised name match,Crestline Facility Services Private Limited,Crestline Facility Services Pvt Ltd
+V1211,V1211,Survivor,CRESTLINE FACILITY SERVICES PVT. LTD.,Crestline Facility Services Pvt Ltd
+V1029,V1213,Normalised name match,Bharat IT Services Pvt Ltd,Bharat It Services Pvt Ltd
+V1213,V1213,Survivor,BHARAT IT SERVICES PVT LTD,Bharat It Services Pvt Ltd
+V1217,V1217,Survivor,Titan IT Svcs Private Limited,Titan IT Svcs Private Limited
+V1170,V1221,PAN match,Pinnacle Security Solutions Limited,Pinnacle Security Soln Limited
+V1221,V1221,Survivor,Pinnacle Security Soln Limited,Pinnacle Security Soln Limited
+V1222,V1222,Survivor,Metro Engg Works LLP,Metro Engg Works LLP
+V1135,V1223,PAN match,Orchid Electricals Limited,Orchid Elec. Limited
+V1223,V1223,Survivor,Orchid Elec. Limited,Orchid Elec. Limited
+V1224,V1224,Survivor,Nova IT ervices LLP,Nova IT ervices LLP
+V1225,V1225,Survivor,Falcon Houekeeping Limited,Falcon Houekeeping Limited
+V1226,V1226,Survivor,Bluewave Secrity Solutions Private Limited,Bluewave Secrity Solutions Private Limited
+V1227,V1227,Survivor,Pinnacle Engneering Works Private Limited,Pinnacle Engneering Works Private Limited
+V1228,V1228,Survivor,Falcon Staioners Private Limited,Falcon Staioners Private Limited

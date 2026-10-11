@@ -1,0 +1,10 @@
+Vendor_A,Name_A,PAN_A,Vendor_B,Name_B,PAN_B,Similarity,Recommended_Action
+V1017,Bluewave Security Solutions Private Limited,TIACC3990Y,V1226,Bluewave Secrity Solutions Private Limited,,0.981,Probable duplicate - steward to confirm (PAN missing on one record)
+V1031,Pinnacle Engineering Works Private Limited,,V1227,Pinnacle Engneering Works Private Limited,,0.98,Probable duplicate - steward to confirm (PAN missing on one record)
+V1037,Falcon Stationers Private Limited,PIBCY3450U,V1228,Falcon Staioners Private Limited,,0.97,Probable duplicate - steward to confirm (PAN missing on one record)
+V1061,Western Landscaping LLP,ELACP1461D,V1151,Eastern Landscaping LLP,DTLCY8837Y,0.947,"Likely DIFFERENT vendors - PANs differ, keep separate"
+V1072,Eastern Water Solutions Pvt Ltd,SZJCX9375S,V1108,Western Water Solutions Private Limited,ZCECP9611I,0.957,"Likely DIFFERENT vendors - PANs differ, keep separate"
+V1086,Western Housekeeping Private Limited,VKVCE0744N,V1116,Eastern Housekeeping Private Limited,YELCJ7807Y,0.95,"Likely DIFFERENT vendors - PANs differ, keep separate"
+V1100,Eastern Stationers Private Limited,XMZCZ8424V,V1107,Western Stationers LLP,WZKCN5126U,0.944,"Likely DIFFERENT vendors - PANs differ, keep separate"
+V1112,Falcon Housekeeping Limited,FRICH4795L,V1225,Falcon Houekeeping Limited,,0.973,Probable duplicate - steward to confirm (PAN missing on one record)
+V1160,Nova IT Services LLP,,V1224,Nova IT ervices LLP,,0.968,Probable duplicate - steward to confirm (PAN missing on one record)

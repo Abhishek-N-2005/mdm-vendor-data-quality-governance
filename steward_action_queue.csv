@@ -1,0 +1,86 @@
+Vendor_ID,Vendor_Name,Status,Open_Issues,Issue_Count,Priority,Action
+V1187,Orchid Facility Services Limited,Active,PAN: Missing; GSTIN: PAN Mismatch; Email: Missing; Phone: Missing,4,High,Request supporting document / confirm with vendor before next payment run
+V1225,Falcon Houekeeping Limited,Active,PAN: Missing; GSTIN: Missing; Phone: Invalid; Bank: Missing,4,High,Request supporting document / confirm with vendor before next payment run
+V1019,Delta Logistics LLP,Active,PAN: Missing; GSTIN: Missing; Email: Missing,3,High,Request supporting document / confirm with vendor before next payment run
+V1027,Chola Security Solutions LLP,Active,PAN: Missing; GSTIN: PAN Mismatch; IFSC: Missing,3,High,Request supporting document / confirm with vendor before next payment run
+V1031,Pinnacle Engineering Works Private Limited,Active,PAN: Missing; GSTIN: PAN Mismatch; IFSC: Invalid,3,High,Request supporting document / confirm with vendor before next payment run
+V1049,Nova Electricals LLP,Active,PAN: Missing; GSTIN: PAN Mismatch; IFSC: Missing,3,High,Request supporting document / confirm with vendor before next payment run
+V1064,Vertex Electricals Private Limited,Active,PAN: Invalid; GSTIN: PAN Mismatch; Bank: Missing,3,High,Request supporting document / confirm with vendor before next payment run
+V1081,Metro Landscaping Private Limited,Inactive,PAN: Invalid; GSTIN: PAN Mismatch; IFSC: Missing,3,High,Request supporting document / confirm with vendor before next payment run
+V1103,Jupiter Stationers Pvt Ltd,Active,GSTIN: Missing; Email: Missing; IFSC: Invalid,3,High,Request supporting document / confirm with vendor before next payment run
+V1113,Chola Engineering Works LLP,Active,PAN: Missing; GSTIN: PAN Mismatch; IFSC: Invalid,3,High,Request supporting document / confirm with vendor before next payment run
+V1160,Nova IT Services LLP,Active,PAN: Missing; GSTIN: PAN Mismatch; Phone: Invalid,3,High,Request supporting document / confirm with vendor before next payment run
+V1162,Apex Facility Services Limited,Inactive,PAN: Invalid; GSTIN: PAN Mismatch; Bank: Missing,3,High,Request supporting document / confirm with vendor before next payment run
+V1227,Pinnacle Engneering Works Private Limited,Active,PAN: Missing; GSTIN: Missing; IFSC: Invalid,3,High,Request supporting document / confirm with vendor before next payment run
+V1004,Deccan Electricals Private Limited,Active,PAN: Missing; GSTIN: PAN Mismatch,2,High,Request supporting document / confirm with vendor before next payment run
+V1016,Pinnacle Printing Limited,Active,GSTIN: Invalid; IFSC: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1018,Bluewave Electricals Pvt Ltd,Active,GSTIN: PAN Mismatch; Email: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1045,Ganga Engineering Works Private Limited,Active,PAN: Missing; GSTIN: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1048,Delta Water Solutions Private Limited,Active,GSTIN: Invalid; Email: Invalid,2,High,Request supporting document / confirm with vendor before next payment run
+V1056,Evergreen Water Solutions Limited,Active,PAN: Invalid; GSTIN: PAN Mismatch,2,High,Request supporting document / confirm with vendor before next payment run
+V1084,Zenith IT Services Pvt Ltd,Active,GSTIN: Missing; Email: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1085,Crestline Power Systems LLP,Active,GSTIN: Invalid; Phone: Invalid,2,High,Request supporting document / confirm with vendor before next payment run
+V1104,Crestline Logistics LLP,Inactive,GSTIN: PAN Mismatch; IFSC: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1115,Jupiter Facility Services Private Limited,Inactive,Bank: Missing; IFSC: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1117,Titan IT Services Private Limited,Active,PAN: Missing; GSTIN: PAN Mismatch,2,High,Request supporting document / confirm with vendor before next payment run
+V1126,Sunrise Power Systems Pvt Ltd,Active,PAN: Missing; GSTIN: PAN Mismatch,2,High,Request supporting document / confirm with vendor before next payment run
+V1133,Deccan Housekeeping Private Limited,Active,PAN: Invalid; GSTIN: PAN Mismatch,2,High,Request supporting document / confirm with vendor before next payment run
+V1134,Crestline Engineering Works Private Limited,Active,GSTIN: Missing; IFSC: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1136,Nova Landscaping Pvt Ltd,Inactive,PAN: Invalid; GSTIN: PAN Mismatch,2,High,Request supporting document / confirm with vendor before next payment run
+V1147,Pinnacle Pest Control Private Limited,Active,PAN: Invalid; GSTIN: PAN Mismatch,2,High,Request supporting document / confirm with vendor before next payment run
+V1183,Orchid Pest Control Private Limited,Active,GSTIN: PAN Mismatch; Email: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1191,Ironbridge IT Services Pvt Ltd,Active,GSTIN: PAN Mismatch; Phone: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1198,Western Engineering Works Limited,Inactive,Phone: Missing; Bank: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1222,Metro Engg Works LLP,Active,PAN: Missing; GSTIN: PAN Mismatch,2,High,Request supporting document / confirm with vendor before next payment run
+V1224,Nova IT ervices LLP,Active,PAN: Missing; GSTIN: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1226,Bluewave Secrity Solutions Private Limited,Active,PAN: Missing; GSTIN: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1228,Falcon Staioners Private Limited,Inactive,PAN: Missing; GSTIN: Missing,2,High,Request supporting document / confirm with vendor before next payment run
+V1001,Zenith Logistics Pvt Ltd,Active,GSTIN: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1005,Kaveri Facility Services LLP,Active,IFSC: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1007,Ironbridge Security Solutions LLP,Active,IFSC: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1017,Bluewave Security Solutions Private Limited,Active,GSTIN: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1028,Zenith Maintenance Private Limited,Active,IFSC: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1034,Vertex Water Solutions Private Limited,Active,IFSC: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1036,Apex Housekeeping LLP,Active,IFSC: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1041,Deccan Water Solutions Private Limited,Active,IFSC: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1052,Jupiter IT Services Limited,Active,GSTIN: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1055,Titan Power Systems LLP,Active,IFSC: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1074,Chola IT Services Pvt Ltd,Active,Bank: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1078,Nova Engineering Works Private Limited,Active,GSTIN: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1082,Horizon IT Services LLP,Active,IFSC: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1089,Titan Water Solutions Limited,Active,Bank: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1090,Ganga Power Systems Pvt Ltd,Active,GSTIN: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1093,Ganga Housekeeping Private Limited,Active,GSTIN: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1099,Ironbridge Logistics LLP,Active,Bank: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1105,Horizon Maintenance Limited,Active,IFSC: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1107,Western Stationers LLP,Active,GSTIN: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1109,Sunrise Housekeeping LLP,Active,Bank: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1110,Orchid Printing Pvt Ltd,Active,GSTIN: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1125,Falcon Facility Services Pvt Ltd,Active,IFSC: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1127,Sunrise Facility Services Private Limited,Active,GSTIN: PAN Mismatch,1,High,Request supporting document / confirm with vendor before next payment run
+V1137,Redwood Electricals Private Limited,Active,GSTIN: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1139,Jupiter Security Solutions Private Limited,Active,GSTIN: PAN Mismatch,1,High,Request supporting document / confirm with vendor before next payment run
+V1146,Bharat Maintenance Private Limited,Active,GSTIN: PAN Mismatch,1,High,Request supporting document / confirm with vendor before next payment run
+V1154,Sunrise Water Solutions Limited,Active,GSTIN: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1157,Titan Facility Services LLP,Active,Bank: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1163,Lotus Stationers LLP,Active,GSTIN: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1169,Quantum Facility Services Private Limited,Active,GSTIN: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1172,Sunrise IT Services Limited,Active,IFSC: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1173,Evergreen Logistics Limited,Active,GSTIN: PAN Mismatch,1,High,Request supporting document / confirm with vendor before next payment run
+V1189,Titan Logistics Pvt Ltd,Active,GSTIN: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1190,Metro Facility Services LLP,Active,GSTIN: Invalid,1,High,Request supporting document / confirm with vendor before next payment run
+V1195,Vertex Landscaping Pvt Ltd,Active,IFSC: Missing,1,High,Request supporting document / confirm with vendor before next payment run
+V1013,Titan Landscaping LLP,Active,Email: Missing; Phone: Missing,2,Medium,Update contact details in next vendor maintenance cycle
+V1014,Delta Security Solutions Pvt Ltd,Active,Email: Missing,1,Medium,Update contact details in next vendor maintenance cycle
+V1022,Sunrise Printing Pvt Ltd,Active,Email: Invalid,1,Medium,Update contact details in next vendor maintenance cycle
+V1039,Eastern Pest Control Private Limited,Inactive,Phone: Invalid,1,Medium,Update contact details in next vendor maintenance cycle
+V1058,Crestline Pest Control Limited,Active,Email: Invalid,1,Medium,Update contact details in next vendor maintenance cycle
+V1076,Quantum Power Systems Private Limited,Active,Email: Missing,1,Medium,Update contact details in next vendor maintenance cycle
+V1128,Delta Engineering Works Pvt Ltd,Active,Email: Missing,1,Medium,Update contact details in next vendor maintenance cycle
+V1132,Deccan Logistics Limited,Active,Phone: Missing,1,Medium,Update contact details in next vendor maintenance cycle
+V1149,Aaryan Power Systems LLP,Active,Email: Missing,1,Medium,Update contact details in next vendor maintenance cycle
+V1151,Eastern Landscaping LLP,Active,Phone: Missing,1,Medium,Update contact details in next vendor maintenance cycle
+V1155,Delta Pest Control Limited,Active,Phone: Invalid,1,Medium,Update contact details in next vendor maintenance cycle
+V1156,Kaveri Pest Control LLP,Active,Email: Missing,1,Medium,Update contact details in next vendor maintenance cycle
+V1164,Redwood Pest Control Pvt Ltd,Active,Email: Invalid,1,Medium,Update contact details in next vendor maintenance cycle
+V1184,Bluewave Housekeeping Limited,Active,Email: Missing,1,Medium,Update contact details in next vendor maintenance cycle
